@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn[standard]
+pydantic
+agno
+google-generativeai
+google-genai
